@@ -55,8 +55,8 @@ python -m streamlit run islamic_finance_text_output.py
 
 ```
 islamic-finance-app/
-├── islamic_finance_app.py
-├── islamic_finance_app_with_env.py
+├── islamic_finance_text_output.py
+├── islamic_finance_direct_openai.py
 ├── requirements.txt
 ├── .env
 └── README.md
