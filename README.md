@@ -1,6 +1,6 @@
 # Islamic Finance Accounting Assistant
 
-his project was developed as part of Challenge 1 – Use Case Scenarios of the IsDBI Islamic Finance AI Hackathon.
+This project was developed as part of Challenge 1 – Use Case Scenarios of the IsDBI Islamic Finance AI Hackathon.
 It features a Streamlit interface powered by Ubility AI and OpenAI GPT models, designed to analyze Islamic finance cases and generate journal entries in compliance with AAOIFI accounting standards.
 
 ## Features
