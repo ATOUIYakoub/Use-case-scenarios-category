@@ -1,4 +1,5 @@
-# Islamic Finance Accounting Assistant
+# AAOIFI Journal Entry Generator – IsDBI Hackathon Challenge 1
+
 
 This project was developed as part of Challenge 1 – Use Case Scenarios of the IsDBI Islamic Finance AI Hackathon.
 It features a Streamlit interface powered by Ubility AI and OpenAI GPT models, designed to analyze Islamic finance cases and generate journal entries in compliance with AAOIFI accounting standards.
